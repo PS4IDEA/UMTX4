@@ -41,7 +41,7 @@ const payload_map = [
         binarySource: "https://github.com/LightningMods/etaHEN/releases/download/1.9b/etaHEN.bin",
         version: "2.0b",
         supportedFirmwares: ["5."],
-		toPort: 9021
+	toPort: 9021
     },
     {
         displayTitle: "etaHEN",
